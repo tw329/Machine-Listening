@@ -1,0 +1,10 @@
+numpy
+pytest
+librosa
+matplotlib
+jupyterlab
+soundfile
+seaborn
+mirdata
+mir_eval
+pandas

@@ -1,0 +1,30 @@
+{
+    "test_a_imports": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_ucid": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_midi_to_frequency": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_generate_envelope": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_generate_complex_tone": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_dft": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_idft": {
+        "weight": 1,
+        "depends": []
+    }
+}

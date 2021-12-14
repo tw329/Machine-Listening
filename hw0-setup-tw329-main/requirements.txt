@@ -1,0 +1,13 @@
+numpy
+pytest
+pandas
+librosa
+scipy
+matplotlib
+mir_eval
+mirdata
+jams
+scikit-learn
+Cython
+madmom
+jupyterlab

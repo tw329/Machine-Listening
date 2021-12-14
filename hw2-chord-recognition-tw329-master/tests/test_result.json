@@ -1,0 +1,12 @@
+{
+    "test_ucid": true,
+    "test_create_chord_templates": true,
+    "test_extract_cens_chroma_features": true,
+    "test_compare_chroma_features_to_templates": true,
+    "test_max_decode": true,
+    "test_viterbi_decode": true,
+    "test_estimate_chords": true,
+    "test_extract_stft_chroma_features": true,
+    "test_extract_cqt_chroma_features": true,
+    "test_evaluate_qualitative": true
+}

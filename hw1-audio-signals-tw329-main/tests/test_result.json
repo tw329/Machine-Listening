@@ -1,0 +1,9 @@
+{
+    "test_midi_to_frequency": true,
+    "test_a_imports": true,
+    "test_ucid": true,
+    "test_generate_envelope": true,
+    "test_generate_complex_tone": true,
+    "test_dft": true,
+    "test_idft": true
+}

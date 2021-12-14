@@ -1,0 +1,42 @@
+{
+    "test_ucid": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_create_chord_templates": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_extract_cens_chroma_features": {
+        "weight": 0.33,
+        "depends": []
+    },
+    "test_extract_stft_chroma_features": {
+        "weight": 0.33,
+        "depends": []
+    },
+    "test_extract_cqt_chroma_features": {
+        "weight": 0.33,
+        "depends": []
+    },
+    "test_compare_chroma_features_to_templates": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_max_decode": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_viterbi_decode": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_estimate_chords": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_evaluate_qualitative": {
+        "weight": 1,
+        "depends": []
+    }
+}

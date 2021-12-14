@@ -1,0 +1,15 @@
+{
+    "score": 100,
+    "tests_passed": 9,
+    "notes": {
+        "test_create_chord_templates": "PASS",
+        "test_extract_cens_chroma_features": "PASS",
+        "test_compare_chroma_features_to_templates": "PASS",
+        "test_max_decode": "PASS",
+        "test_viterbi_decode": "PASS",
+        "test_estimate_chords": "PASS",
+        "test_extract_stft_chroma_features": "PASS",
+        "test_extract_cqt_chroma_features": "PASS",
+        "test_evaluate_qualitative": "PASS"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "test_sum_numbers": true,
+    "test_multiply_numbers": true,
+    "test_netid": true,
+    "test_create_add_matrix": true,
+    "test_indexing_aggregation": true,
+    "test_test_sine_plot": false,
+    "test_sine_plot": true
+}
